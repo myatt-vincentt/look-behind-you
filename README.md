@@ -16,6 +16,7 @@ away and back to show the move.
 - The night behind you is one shader over the camera (`src/halloween/Grade.tsx`), split by the
   portrait mask. The sounds are synthesised (`src/halloween/audio.ts`) and stay off until you tap
   the speaker.
+- Thumbnail: `public/images/look-behind-you-thumbnail.jpg` (the share image).
 - Models: `public/models/vincentt-*.glb` (monsters and fit in `src/halloween/monsters.ts`); the
   hint face is `face-v1.glb`. Credits in `CREDITS.md`.
 - Dev preview without a camera: the media switcher starts on `dev-media/halloween.mp4` if you add
